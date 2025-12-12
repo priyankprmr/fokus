@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fokus/timer_widget.dart';
+import 'package:fokus/features/pomodoro/widgets/timer_widget.dart';
 
 void main() {
   runApp(const MainApp());
